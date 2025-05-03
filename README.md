@@ -2,16 +2,16 @@
 Contains all my course content of sem I and sem II
 
 Semester I Courses:<br>
-CSD101
-MAT103
-PHY101
-MED201
-CCC704
+CSD101<br>
+MAT103<br>
+PHY101<br>
+MED201<br>
+CCC704<br>
 
-Semester II Courses:
-CSD102
-MAT161
-PHY102
-ECE101
-CCC634
-CCC805
+Semester II Courses:<br>
+CSD102<br>
+MAT161<br>
+PHY102<br>
+ECE101<br>
+CCC634<br>
+CCC805<br>
