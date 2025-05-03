@@ -1,7 +1,7 @@
 # B.Tech-CSE-First-Year-Resources
 Contains all my course content of sem I and sem II
 
-Semester I Courses:
+Semester I Courses:<br>
 CSD101
 MAT103
 PHY101
