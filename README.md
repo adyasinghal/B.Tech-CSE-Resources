@@ -1,10 +1,10 @@
 # B.Tech-CSE-First-Year-Resources
 Contains all my course content of sem I and sem II<br>
-Has all resources + previous year papers + notes one os gonna need for these courses.<br>
+Has all resources + previous year papers + notes one is gonna need for these courses.<br>
 <br>
 Make as much use you can of this repo!!<br>
 
--Adya Singhal
+-Adya Singhal (CSE, Batch of 2028)
 
 Semester I Courses:<br>
 CSD101 (You can find codes in here as well)<br>
