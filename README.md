@@ -1,6 +1,6 @@
 # B.Tech-CSE-First-Year-Resources
 Contains all my course content of sem I and sem II<br>
-Has all resources + previous year papers + notes one is gonna need for these courses.<br>
+Has all resources + previous year papers + notes + assignments one is gonna need for these courses.<br>
 <br>
 Make as much use you can of this repo!!<br>
 
