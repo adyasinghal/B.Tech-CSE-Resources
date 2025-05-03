@@ -1,0 +1,2 @@
+C programming is fun
+This is a practice question
