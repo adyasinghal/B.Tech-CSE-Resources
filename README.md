@@ -2,6 +2,7 @@
 
 I will be adding all my B.Tech CSE degree course content in here.  
 As of now, it contains all my course content of sem I and sem II.  
+
 Has all **resources + previous year papers + notes + assignments(even graded ones)** one is gonna need for these courses.  
 
 _P.S. If you're a junior who comes across this, make as much use you can of this repo!!_  
