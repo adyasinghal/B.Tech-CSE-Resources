@@ -10,14 +10,14 @@ _P.S. If you're a junior who comes across this, make as much use you can of this
 -_Adya Singhal (CSE, Batch of 2028)_  
 
 ___
-<mark>Semester I Courses:</mark>  
+### <mark>Semester I Courses:</mark>  
 * CSD101 (_You can find codes in here as well_)  
 * MAT103  
 * PHY101  
 * MED201  
 * CCC704  
 
-<mark>Semester II Courses:</mark>  
+### <mark>Semester II Courses:</mark>  
 * CSD102  
 * MAT161  
 * PHY102 (This sucks!)  
