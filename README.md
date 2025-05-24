@@ -5,7 +5,7 @@ As of now, it contains all my course content of sem I and sem II.
 
 Has all <mark>**resources + previous year papers + notes + assignments(even graded ones)**</mark> I used/had for these courses.  
 
-_P.S. If you're a junior who comes across this, make as much use you can of this repo!!_  
+ 
 
 -_Adya Singhal (CSE, Batch of 2028)_  
 
