@@ -24,3 +24,10 @@ ___
 * ECE101  
 * CCC634 (Python)  
 * CCC805 (Excel)  
+
+### <mark>Semester III Courses:</mark>  
+* CSD205
+* CSD211
+* CSD213
+* ECE103
+* ECO101
