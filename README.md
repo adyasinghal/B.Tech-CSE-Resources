@@ -1,5 +1,7 @@
 # B.Tech-CSE-Resources
 
+PLS DON'T CONFUSE THIS WITH THE PULSE REPO, THIS HAS MY PERSONAL CONTENT WHICH I REFFERED TO/ HAD!!  
+
 I will be adding all my B.Tech CSE degree course content in here.  
 As of now, it contains all my course content of sem I and sem II.  
 
